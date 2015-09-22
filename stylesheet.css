@@ -1,0 +1,102 @@
+div {
+    border-radius: 15px;
+}
+#header {
+    width: 98%;
+	height: 50px;
+	background-color: #4682B4;
+	position:fixed;
+	z-index:1;
+}
+.image {
+    float:left;
+    margin: 60px 5px 5px 5px;
+	width:100%;
+	position: absolute;
+
+}
+.right {	
+    float: right;
+    margin-top: 60px;
+	width: 69%;
+	margin-right:15px;
+	margin-bottom: 10px;
+	background-color: #E6E6FA;
+
+}
+.left {
+    float: left;
+	margin-top: 550px ;
+	padding-left: 10px;
+	
+	width: 29%;
+	background-color: #B0C4DE;
+	
+}
+.footer {
+	width: 98%;
+    clear:both;
+	background-color: #ADD8E6;
+	margin: 5px;
+	padding: 5px 10px 10px 0px;
+	
+}
+#name {
+    float: left;
+    margin-left: 5px;
+    margin-top: 12px;
+    color: #FFFFF0;
+    font-size: 25px
+}
+#email {
+    float: right;
+    margin-right: 10px;
+    padding-top: 3px;
+    color: #FFFFF0;
+    text-decoration:none;
+    font-size:16px
+}
+
+}
+#email:visited {
+    color: #ee9a00;
+}
+#email:hover {
+    color: blue;
+}
+#image {
+    border-radius: 15px;
+	width:29%;
+}   
+h1 {
+    text-align: center;
+    font-family: Verdana;
+}
+H2 {
+    font-family: times;
+}
+h3 {
+    font-family: verdana;
+    text-align: center;
+}
+h4 {
+    margin-left: 5px;
+	margin-bottom: 5px;
+	font-family: Verdana, sans-serif;
+	font-size: 15px;
+}
+h5 {
+    margin-top:px;
+    Font-family: Verdana, sans-serif;
+}
+h6 {
+    Font-family: Verdana;
+    text-align: center;
+    Font-size: 20px;
+}
+p {
+    Font-size: 10px;
+    Font-family: Verdana;
+}
+
+    
